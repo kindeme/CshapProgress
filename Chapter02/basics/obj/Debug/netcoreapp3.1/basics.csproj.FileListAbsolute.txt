@@ -1,3 +1,11 @@
 H:\C#\Chapter02\basics\obj\Debug\netcoreapp3.1\basics.csprojAssemblyReference.cache
 H:\C#\Chapter02\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfoInputs.cache
 H:\C#\Chapter02\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfo.cs
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.exe
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.deps.json
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.json
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.dev.json
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.dll
+H:\C#\Chapter02\basics\bin\Debug\netcoreapp3.1\basics.pdb
+H:\C#\Chapter02\basics\obj\Debug\netcoreapp3.1\basics.dll
+H:\C#\Chapter02\basics\obj\Debug\netcoreapp3.1\basics.pdb
